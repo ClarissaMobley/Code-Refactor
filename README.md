@@ -1,5 +1,7 @@
 # Code Refactor
 
+## Description
+
 I took a codebase and followed accessibility standards while also cleaning up and fixing what wasn't working.
 
 
@@ -35,4 +37,5 @@ THEN I find a concise, descriptive title
 
 ## Screenshots
 
-<img src="./assets/images/Horiseon-Marketing-Agency.jpg>
+## License
+Please refer to the LICENSE in the repo.
