@@ -11,8 +11,7 @@ I took a codebase and followed accessibility standards while also cleaning up an
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/repository-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ClarissaMobley/Code-Refactor)
-
+- [Live URL](https://clarissamobley.github.io/Code-Refactor/)
 
 ## Screenshots
 
